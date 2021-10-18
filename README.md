@@ -20,6 +20,6 @@ Setelah itu jangan lupa login github silahkan mendaftar jka belum register
 
 ![Github](https://user-images.githubusercontent.com/92714725/137741698-f79be8f2-68e2-4e74-8a22-46de035e3a36.png)
 ### 4. Klik New pada Repositories
-
+![Screenshot_3](https://user-images.githubusercontent.com/92714725/137742536-f2ca8db6-221d-48a7-a16f-bd9d2e44af19.png)
 
 
