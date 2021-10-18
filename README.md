@@ -10,7 +10,7 @@ Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instal
 
 ![Screenshot_193](https://user-images.githubusercontent.com/92714725/137737921-c074ccfe-1a48-4510-8fd9-4f2ee644a8d4.png)
 
-Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
+Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada __Windows__.
 
 
 
