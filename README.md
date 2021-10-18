@@ -32,6 +32,8 @@ Klik code kemuadian pilih HTPPS. Copy link yang tersedia.
 ![Screenshot_5](https://user-images.githubusercontent.com/92714725/137746982-11ad022f-690d-4137-99d9-d0abc46414a4.png)
 
 paste dengan  cara _git clone "linkgithub_. Setelah itu buka Visual Studio Code dan koding di file _README.MD_ dan jangan lupa di save.
+### 8. Push ke Github
+Dan langkah terakhir yang dilakukan adalah memasukan data ke github dengan cara (_github -u origin main) dan Tunggu selesai terupload.
 
 
 
