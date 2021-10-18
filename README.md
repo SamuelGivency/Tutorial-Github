@@ -28,6 +28,10 @@ Jangan lupa memberikan nama pada repository deskripsi bebas jika ingin di isi at
 ### 6. Copy Link  HTTPS
 Klik code kemuadian pilih HTPPS. Copy link yang tersedia.
 ![Screenshot_4](https://user-images.githubusercontent.com/92714725/137744691-d6e522d8-da89-4360-a27f-9fe02b685e98.png)
+### 7. Paste Link HTTPS di Git Bash
+![Screenshot_5](https://user-images.githubusercontent.com/92714725/137746982-11ad022f-690d-4137-99d9-d0abc46414a4.png)
+
+paste dengan  cara _git clone "linkgithub_. Setelah itu buka Visual Studio Code dan koding di file _README.MD_ dan jangan lupa di save.
 
 
 
