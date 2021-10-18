@@ -8,3 +8,6 @@ Setelah selesai mengunduh file Git, buka setup aplikasi Git untuk memulai proses
 ### 2. Mulai Proses Instalasi
 Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instalasi Git. Klik Install untuk melanjutkan proses.
 
+![Screenshot_193](https://user-images.githubusercontent.com/92714725/137737921-c074ccfe-1a48-4510-8fd9-4f2ee644a8d4.png)
+
+
