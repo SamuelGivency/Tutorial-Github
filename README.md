@@ -19,5 +19,7 @@ Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai d
 Setelah itu jangan lupa login github silahkan mendaftar jka belum register
 
 ![Github](https://user-images.githubusercontent.com/92714725/137741698-f79be8f2-68e2-4e74-8a22-46de035e3a36.png)
+### 4. Klik New pada Repositories
+
 
 
