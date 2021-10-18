@@ -15,6 +15,8 @@ Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai d
 
 
 ![Screenshot_188](https://user-images.githubusercontent.com/92714725/137738411-a7446960-fb20-4b9b-be23-f2454bd1d56e.png)
+### 3. Login Github
+Setelah itu jangan lupa login github silahkan mendaftar jka belum register
 
 
 
