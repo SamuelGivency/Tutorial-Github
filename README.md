@@ -1,5 +1,5 @@
 # Tutorial-Github
 Cara menggunakan Github
-### Cara Membuat Github
+### 1. Instal Git
+Untuk menginstall Git, Anda perlu mengunduh file-nya terlebih dahulu di situs resminya. Download sesuai tipe sistem operasi pada komputer Anda. Apabila tipe sistem operasi komputer Anda 64bit,  pilih Git yang mendukung Windows 64bit. Tujuannya adalah agar tidak terjadi error saat proses instalasi Git.
 
-![membuat-repository](https://user-images.githubusercontent.com/92714725/137731862-4552b7d4-775e-4404-af67-7a4ac698b45f.png)
