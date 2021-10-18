@@ -22,7 +22,10 @@ Setelah itu jangan lupa login github silahkan mendaftar jka belum register.
 ### 4. Klik New pada Repositories
 ![Screenshot_3](https://user-images.githubusercontent.com/92714725/137742536-f2ca8db6-221d-48a7-a16f-bd9d2e44af19.png)
 ### 5. Create New Repository
-Jangan lupa memberikan nama pada repository deskripsi bebas jika ingin di isi atau tidak. jangan lupa centang add a README File
+Jangan lupa memberikan nama pada repository deskripsi bebas jika ingin di isi atau tidak. jangan lupa centang add a README File.
+![Screenshot_2](https://user-images.githubusercontent.com/92714725/137742554-219b5446-452b-4043-b990-31ba2ceb8f67.png)
+![Screenshot_1](https://user-images.githubusercontent.com/92714725/137742587-5981becb-8e40-49d9-964f-9b6284b14034.png)
+
 
 
 
