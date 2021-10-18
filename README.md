@@ -33,7 +33,10 @@ Klik code kemuadian pilih HTPPS. Copy link yang tersedia.
 
 paste dengan  cara _git clone "linkgithub_. Setelah itu buka Visual Studio Code dan koding di file _README.MD_ dan jangan lupa di save.
 ### 8. Push ke Github
-Dan langkah terakhir yang dilakukan adalah memasukan data ke github dengan cara (_github -u origin main) dan Tunggu selesai terupload.
+![Screenshot_6](https://user-images.githubusercontent.com/92714725/137748686-499e421a-cdbe-4881-8fd1-41d688715de7.png)
+
+Dan langkah terakhir yang dilakukan adalah memasukan data ke github dengan cara (_github -u origin main_) dan Tunggu selesai terupload.
+### Selesai.
 
 
 
