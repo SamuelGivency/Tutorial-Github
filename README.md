@@ -25,7 +25,9 @@ Setelah itu jangan lupa login github silahkan mendaftar jka belum register.
 Jangan lupa memberikan nama pada repository deskripsi bebas jika ingin di isi atau tidak. jangan lupa centang add a README File.
 ![Screenshot_1](https://user-images.githubusercontent.com/92714725/137742587-5981becb-8e40-49d9-964f-9b6284b14034.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/92714725/137742554-219b5446-452b-4043-b990-31ba2ceb8f67.png)
-
+### 6. Copy Link  HTTPS
+Klik code kemuadian pilih HTPPS. Copy link yang tersedia.
+![Screenshot_4](https://user-images.githubusercontent.com/92714725/137744691-d6e522d8-da89-4360-a27f-9fe02b685e98.png)
 
 
 
